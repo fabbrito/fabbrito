@@ -13,10 +13,13 @@
 
 #### Hardware design and programming
 
-- Arduino <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-- MATLAB
-- PlatformIo
-- <img align="center" alt="KiCad" height="26px" src="./img/KiCad-Logo.svg">
+<div class="display: flex; justify-content: space-between;">
+    <img align="center" alt="KiCad" height="26px" src="img/KiCad-Logo.svg">
+    <img align="center" alt="Arduino" height="26px" src="img/Arduino_Logo.svg">
+    <img align="center" alt="MATLAB" height="26px" src="img/Matlab_Logo.png">
+    [<img align="center" alt="PlatformIo" height="26px" src="img/platformio-logo.17fdc3bc.png">][platformio]
+</div>
+</br>
 
 #### IDEs and Code editors
 
@@ -46,3 +49,5 @@
     <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
     <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <div>
+
+[platformio]: https://platformio.org/
