@@ -17,9 +17,14 @@
     <img align="center" alt="KiCad" height="26px" src="img/KiCad-Logo.svg">
     <img align="center" alt="Arduino" height="26px" src="img/Arduino_Logo.svg">
     <img align="center" alt="MATLAB" height="26px" src="img/Matlab_Logo.png">
-    [<img align="center" alt="PlatformIo" height="26px" src="img/platformio-logo.17fdc3bc.png">][platformio]
+    
 </div>
 </br>
+
+<img align="center" alt="KiCad" height="26px" src="img/KiCad-Logo.svg">
+<img align="center" alt="Arduino" height="26px" src="img/Arduino_Logo.svg">
+<img align="center" alt="MATLAB" height="26px" src="img/Matlab_Logo.png">
+[<img align="center" alt="PlatformIo" height="26px" src="img/platformio-logo.17fdc3bc.png">][platformio]
 
 #### IDEs and Code editors
 
