@@ -27,3 +27,12 @@
     <img alt="PlatformIo" height="26px" src="https://github.com/kaeiel/kaeiel/blob/master/img/platformio-logo.17fdc3bc.png">
     <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <div>
+
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="fabbrito's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=fabbrito&show_icons=true&hide_border=true" />
+
+</details>
