@@ -30,15 +30,11 @@
 
 ---
 
-<details>
-<summary>:zap: Recent Github Activity</summary>
+### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com//Jaxe-Dev/RimHUD/issues/4) in [Jaxe-Dev/RimHUD](https://github.com//Jaxe-Dev/RimHUD)
 2. 💪 Opened PR [#4](https://github.com//Jaxe-Dev/RimHUD/pull/4) in [Jaxe-Dev/RimHUD](https://github.com//Jaxe-Dev/RimHUD)
 <!--END_SECTION:activity-->
-</details>
 
-<details>
-<summary>:zap: Github Stats</summary>
+### :zap: Github Stats
 <img align="left" alt="fabbrito's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=fabbrito&show_icons=true&hide_border=true" />
-</details>
