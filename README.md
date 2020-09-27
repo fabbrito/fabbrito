@@ -32,8 +32,8 @@
 
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com//Jaxe-Dev/RimHUD/issues/4) in [Jaxe-Dev/RimHUD](https://github.com//Jaxe-Dev/RimHUD)
-2. 💪 Opened PR [#4](https://github.com//Jaxe-Dev/RimHUD/pull/4) in [Jaxe-Dev/RimHUD](https://github.com//Jaxe-Dev/RimHUD)
+1. 🗣 Commented on [#4](https://github.com/Jaxe-Dev/RimHUD/issues/4) in [Jaxe-Dev/RimHUD](https://github.com/Jaxe-Dev/RimHUD)
+2. 💪 Opened PR [#4](https://github.com/Jaxe-Dev/RimHUD/pull/4) in [Jaxe-Dev/RimHUD](https://github.com/Jaxe-Dev/RimHUD)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
