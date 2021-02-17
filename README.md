@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source projects
 - ⚡ Fun fact: I love to play RimWorld, the best game ever created!
+- 📕 Check my [Gist](https://gist.github.com/fabbrito)
 
 ---
 
