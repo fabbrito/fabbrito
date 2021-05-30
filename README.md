@@ -38,4 +38,4 @@
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
-<img align="left" alt="fabbrito's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=fabbrito&show_icons=true&hide_border=true" />
+<img align="left" alt="fabbrito's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=fabbrito&theme=dark&show_icons=true&hide_border=true" />
