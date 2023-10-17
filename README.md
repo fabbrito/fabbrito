@@ -2,7 +2,7 @@
 
 ## I'm an Electrical Engineer, a Dedicated Developer and a Hobbyist Gamer!
 
-- 🔭 I’m currently learning cyber security with CTFs wargames!
+- 🔭 I'm currently challenging myself with LeetCode
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source projects
 - ⚡ Fun fact: I love to play RimWorld, the best game ever created!
