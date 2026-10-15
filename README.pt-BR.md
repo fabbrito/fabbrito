@@ -2,12 +2,30 @@
 
 [![en](https://img.shields.io/badge/lang-en-blue?style=flat-square)](./README.md)
 
-Backend & Infraestrutura · Engenheiro eletricista de formação (USP EESC)
+Engenheiro backend: integrações, dados e infraestrutura · Engenheiro eletricista de formação (USP
+EESC)
 
-- Primeiro e único engenheiro na [Capybara Labs](https://capybaralabs.com.br), startup B2B brasileira (2024–atual). Construí e mantenho o produto sozinho, do zero à produção
-- [Advent of Code](https://adventofcode.com) todo ano desde 2023, só pelos desafios
-- Formado em Engenharia Elétrica pela [EESC-USP](https://eesc.usp.br)
+- De 2024 a 2026, engenheiro fundador na [Capybara Labs](https://capybaralabs.com.br), startup B2B
+  brasileira: arquitetura, modelagem de dados, backend, infraestrutura e operação em produção, com
+  outros desenvolvedores entrando de tempos em tempos
+- Hoje, projetos paralelos que me mantêm aprendendo (mais em [fabbr.com.br](https://fabbr.com.br))
+- [Advent of Code](https://adventofcode.com) à mão todo ano desde 2023, uma linguagem por ano; agora
+  [reescrevendo em Rust](https://github.com/fabbrito/AoC-rust) para aprender a linguagem
 - Anotações rápidas e experimentos no meu [Gist](https://gist.github.com/fabbrito)
+
+### Projetos
+
+- [magellan](https://fabbr.com.br/projects/magellan/): pipeline de telemetria em produção contínua,
+  de um binário em Rust num Raspberry Pi até a Cloudflare e o Grafana
+- [ansible-infra](https://github.com/fabbrito/ansible-infra): coleção Ansible pública para a base de
+  hosts em VMs na nuvem e em placas, com hardening de SSH, firewall, fail2ban, Docker, Caddy, backups e
+  monitoramento
+- [burl](https://fabbr.com.br/projects/burl/): protótipo de ledger de pagamentos para o mercado
+  brasileiro, partidas dobradas sobre PostgreSQL
+- [control-lab](https://fabbr.com.br/projects/control-lab/): sistemas de controle a partir de
+  primeiros princípios em Python, feitos como software de produção
+- Uma espécie de laboratório que une conhecimento de dados judiciais e aprendizado de máquina
+  (privado, em andamento)
 
 ---
 
@@ -47,6 +65,10 @@ Backend & Infraestrutura · Engenheiro eletricista de formação (USP EESC)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 [![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)](https://www.metabase.com)
+[![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)](https://pola.rs)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://duckdb.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com)
 
 ### Formação em Engenharia
 

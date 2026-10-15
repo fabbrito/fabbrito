@@ -2,12 +2,28 @@
 
 [![pt-BR](https://img.shields.io/badge/lang-pt--BR-green?style=flat-square)](./README.pt-BR.md)
 
-Backend & Infrastructure · Electrical Engineer by training (USP EESC)
+Backend engineer: integrations, data and infrastructure · Electrical Engineer by training (USP EESC)
 
-- First and only engineer at [Capybara Labs](https://capybaralabs.com.br), a Brazilian B2B startup (2024–present). Built and still run the product solo, zero to production
-- [Advent of Code](https://adventofcode.com) every year since 2023, just for the puzzles
-- Electrical Engineering graduate from [EESC-USP](https://eesc.usp.br)
+- From 2024 to 2026, founding engineer at [Capybara Labs](https://capybaralabs.com.br), a Brazilian
+  B2B startup: architecture, data modeling, backend, infrastructure and production operations, with
+  other developers joining from time to time
+- These days, side projects that keep me learning (more on [fabbr.com.br](https://fabbr.com.br))
+- [Advent of Code](https://adventofcode.com) by hand every year since 2023, a language per year;
+  now [rewriting it in Rust](https://github.com/fabbrito/AoC-rust) to learn the language
 - Quick notes and experiments on my [Gist](https://gist.github.com/fabbrito)
+
+### Projects
+
+- [magellan](https://fabbr.com.br/projects/magellan/): telemetry pipeline running continuously in
+  production, from a Rust binary on a Raspberry Pi to Cloudflare and Grafana
+- [ansible-infra](https://github.com/fabbrito/ansible-infra): public Ansible collection for host
+  baselines on cloud VMs and boards, with SSH hardening, firewall, fail2ban, Docker, Caddy, backups and
+  monitoring
+- [burl](https://fabbr.com.br/projects/burl/): prototype payment ledger for the Brazilian market,
+  double entry on PostgreSQL
+- [control-lab](https://fabbr.com.br/projects/control-lab/): control systems from first principles
+  in Python, built as production-shaped software
+- A lab of sorts bringing court-data knowledge and machine learning together (private, in progress)
 
 ---
 
@@ -47,6 +63,10 @@ Backend & Infrastructure · Electrical Engineer by training (USP EESC)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 [![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)](https://www.metabase.com)
+[![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)](https://pola.rs)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://duckdb.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com)
 
 ### Engineering Background
 
