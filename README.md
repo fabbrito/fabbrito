@@ -2,7 +2,7 @@
 
 [![pt-BR](https://img.shields.io/badge/lang-pt--BR-green?style=flat-square)](./README.pt-BR.md)
 
-Backend engineer: integrations, data and infrastructure · Electrical Engineer by training (USP EESC)
+Backend engineer: integrations, data and infrastructure · EE by training, dev by experience (USP EESC)
 
 - From 2024 to 2026, founding engineer at [Capybara Labs](https://capybaralabs.com.br), a Brazilian
   B2B startup: architecture, data modeling, backend, infrastructure and production operations, with

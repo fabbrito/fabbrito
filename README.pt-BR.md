@@ -2,8 +2,8 @@
 
 [![en](https://img.shields.io/badge/lang-en-blue?style=flat-square)](./README.md)
 
-Engenheiro backend: integrações, dados e infraestrutura · Engenheiro eletricista de formação (USP
-EESC)
+Engenheiro backend: integrações, dados e infraestrutura · Engenheiro eletricista de formação, dev por experiência
+(USP EESC)
 
 - De 2024 a 2026, engenheiro fundador na [Capybara Labs](https://capybaralabs.com.br), startup B2B
   brasileira: arquitetura, modelagem de dados, backend, infraestrutura e operação em produção, com
